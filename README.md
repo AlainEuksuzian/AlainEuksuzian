@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlainEuksuzian
   
-- 👀 I’m interested in Data Science, Web Developement,
+- 👀 I’m interested in Data Science, Web Developement, and algorithm design
   
 - 🌱 I’m currently learning Data Structures and Algorithms && Data Communication Networks
   
