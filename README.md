@@ -16,3 +16,5 @@
 AlainEuksuzian/AlainEuksuzian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Why do most Java programmers wear glasses?
+Because they don’t see sharp.  :point_right::point_left::relaxed:
