@@ -2,7 +2,7 @@
   
 - 👀 I’m interested in Data Science, Web Developement,
   
-- 🌱 I’m currently learning Data Structures & Algorithms && Data Communication And Computer Networks
+- 🌱 I’m currently learning Data Structures and Algorithms && Data Communication Networks
   
 - 💞️ I’m looking to collaborate on Machine Learning, Database Management
   
