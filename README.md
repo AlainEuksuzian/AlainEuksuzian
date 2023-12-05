@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @AlainEuksuzian
-- 👀 I’m interested in Data Science, Web Developement, 
+  
+- 👀 I’m interested in Data Science, Web Developement,
+  
 - 🌱 I’m currently learning Data Structures & Algorithms & Data Communication And Computer Networks
+  
 - 💞️ I’m looking to collaborate on Machine Learning, Database Management
+  
 - 📫 How to reach me alain-mokour@hotmail.com
 
 
