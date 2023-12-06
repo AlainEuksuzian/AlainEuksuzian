@@ -9,7 +9,7 @@
 - 📫 How to reach me alain-mokour@hotmail.com
   <br><br><br><br>
 
-Tools i know & am learning:<br><br>
+Tools i know & learning:<br><br>
 ![techstack](https://github.com/AlainEuksuzian/AlainEuksuzian/assets/132709528/c9fef4b6-ffd1-449b-81b3-fac3d71a942b)
 
 
