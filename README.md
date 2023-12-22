@@ -13,6 +13,8 @@ Tools i know & learning:<br><br>
 ![techstack](https://github.com/AlainEuksuzian/AlainEuksuzian/assets/132709528/c9fef4b6-ffd1-449b-81b3-fac3d71a942b)
 
 
+<a href = https://docs.google.com/spreadsheets/d/1bKUPChN-Tn9Atj0Zf05dNN2cQ9zKjqjMZQql47_CGBU/edit#gid=0> my computer science undergrad journey </a>
+
 <br><br><br>
 
 <!---
