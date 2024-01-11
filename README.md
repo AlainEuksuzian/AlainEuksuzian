@@ -12,12 +12,6 @@
 Tools i know & learning:<br><br>
 ![techstack](https://github.com/AlainEuksuzian/AlainEuksuzian/assets/132709528/c9fef4b6-ffd1-449b-81b3-fac3d71a942b)
 
-
-<p>In 2022, i began my self study of BSc. in Computer Science, here is my progress:</p>
-https://docs.google.com/spreadsheets/d/1bKUPChN-Tn9Atj0Zf05dNN2cQ9zKjqjMZQql47_CGBU/edit#gid=0
-
-<br><br><br>
-
 <!---
 AlainEuksuzian/AlainEuksuzian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
